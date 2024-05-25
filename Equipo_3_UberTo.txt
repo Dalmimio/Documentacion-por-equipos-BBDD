@@ -1,0 +1,17 @@
+
+
+==============Épica Equipo 3, UBER TO============
+
+Se necesita una app de viajes, donde se guarden los siguientes datos:
+Datos del Usuario, del conductor y el registro de los viajes.
+
+Para los usuarios se debe registrar el usuario ( Longitud 8), el nombre completo ( Longitud 25)
+y un número telefónico ( 10 dígitos)
+
+En el caso de los conductores registrados en la app, se va a solicitar: 
+el nombre del conductor ( 20 caracteres), y la matrícula del automovil
+
+Para registrar los viajes realizados guardaremos el usuario, el nombre del conductor, matricula del vehiculo
+el origen del viaje y el destinino ( longutud 100)
+*El origen y destino debe contener la calle, el numero y la ciudad: ejemplo: Av. Cabildo 65 1° piso, Ciudad Autónoma de Buenos Aires
+
